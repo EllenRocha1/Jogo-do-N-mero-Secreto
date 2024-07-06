@@ -22,7 +22,7 @@
 ```cd Jogo do Número Secreto```
 3. Abra o arquivo index.html no seu navegador preferido.
 - Pelo navegador
-1. Acesse: ```https://jogo-do-n-secreto-mu.vercel.app/```
+1. Acesse: <https://jogo-do-n-secreto-mu.vercel.app/>
 
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
