@@ -15,11 +15,14 @@
 - JavaScript
 
 # Como Jogar
+- Pelo Git Hub
 1. Clone o repositório para sua máquina local.
 ```git clone https://github.com/EllenRocha1/Jogo-do-N-mero-Secreto.git```
 2. Navegue até o diretório do projeto.
 ```cd Jogo do Número Secreto```
 3. Abra o arquivo index.html no seu navegador preferido.
+- Pelo navegador
+1. Acesse: ```https://jogo-do-n-secreto-mu.vercel.app/```
 
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
