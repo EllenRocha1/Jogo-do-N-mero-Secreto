@@ -1,7 +1,7 @@
 # Jogo do Número Secreto
  O projeto do "Jogo do Número Secreto" é um jogo simples, concebido para ajudar a aplicar habilidades básicas de programação em JavaScript. Nele, o jogador tenta adivinhar um número secreto dentro de um intervalo especificado, recebendo dicas para ajustar suas suposições.
  
-<img src="img/img-markdown/Jogo do Número Secreto - Google Chrome 06_07_2024 21_02_44.png">
+<img src="img/img-markdown/Jogo do Número Secreto - imagem- tela inicial.png">
 
 # Funcionalidades
 - Jogador escolhe um intervalo de números.
