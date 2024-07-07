@@ -19,7 +19,7 @@
 # Como Jogar
 - Pelo Git Hub
 1. Clone o repositório para sua máquina local.
-```git clone https://github.com/EllenRocha1/Jogo-do-N-mero-Secreto.git```
+```gh repo clone EllenRocha1/Jogo-do-N-mero-Secreto```
 2. Navegue até o diretório do projeto.
 ```cd Jogo do Número Secreto```
 3. Abra o arquivo index.html no seu navegador preferido.
